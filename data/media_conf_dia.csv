@@ -1,39 +1,39 @@
-"conferente","tempo_medio_conferencia","tempo","data_operacao"
-Alexsander Campos Silva,"00:00:10","00:00:10.6",2026-09-02
-João Victor Silva Leal,"00:00:16","00:00:16.666667",2026-09-02
-José Conferente,"00:00:06","00:00:06",2026-09-02
-Alexsander Campos Silva,"00:00:42","00:00:42.027778",2026-09-03
-Wallace Christian Gomes Esteves   ,"00:00:06","00:00:06.021739",2026-09-04
-Wallace Christian Gomes Esteves   ,"00:00:11","00:00:11.875",2026-09-07
-Alexsander Campos Silva,"00:00:03","00:00:03.5",2026-09-08
-Wallace Christian Gomes Esteves   ,"00:00:10","00:00:10.518519",2026-09-08
-Alexsander Campos Silva,"00:00:07","00:00:07",2026-09-09
-Wallace Christian Gomes Esteves   ,"00:00:05","00:00:05.481481",2026-09-09
-Wallace Christian Gomes Esteves   ,"00:00:05","00:00:05.097222",2026-09-10
-João Victor Silva Leal,"00:00:37","00:00:37.586207",2026-09-11
-Leonardo Miguel,"00:00:11","00:00:11.8",2026-09-11
-Wallace Christian Gomes Esteves   ,"00:00:06","00:00:06.565217",2026-09-11
-Wallace Christian Gomes Esteves   ,"00:00:04","00:00:04.52",2026-09-14
-Wallace Christian Gomes Esteves   ,"00:00:04","00:00:04.288462",2026-09-15
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.440476",2026-09-16
-Leonardo Miguel,"00:00:11","00:00:11.542857",2026-09-17
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.276596",2026-09-17
-Wallace Christian Gomes Esteves   ,"00:00:08","00:00:08.670732",2026-09-18
-Wallace Christian Gomes Esteves   ,"00:00:05","00:00:05.19469",2026-09-21
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.757576",2026-09-22
-Alexsander Campos Silva,"00:00:05","00:00:05.538462",2026-09-23
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.234043",2026-09-23
-Alexsander Campos Silva,"00:01:04","00:01:04",2026-09-24
-Leonardo Miguel,"00:00:08","00:00:08.085714",2026-09-24
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.636364",2026-09-24
-João Victor Silva Leal,"00:00:42","00:00:42.761905",2026-09-25
-Leonardo Miguel,"00:00:12","00:00:12",2026-09-25
-Wallace Christian Gomes Esteves   ,"00:00:11","00:00:11.564103",2026-09-25
-Leonardo Miguel,"00:00:12","00:00:12",2026-09-28
-Wallace Christian Gomes Esteves   ,"00:00:02","00:00:02.718519",2026-09-28
-Leonardo Miguel,"00:00:02","00:00:02.307692",2026-09-29
-Wallace Christian Gomes Esteves   ,"00:00:03","00:00:03.744186",2026-09-29
-Alexsander Campos Silva,"00:01:02","00:01:02.647059",2026-09-30
-João Victor Silva Leal,"00:00:32","00:00:32.25",2026-09-30
-José Conferente,"00:00:43","00:00:43.25",2026-09-30
-Wallace Christian Gomes Esteves   ,"00:00:06","00:00:06.643979",2026-09-30
+conferente,tempo_medio_conferencia,tempo,data_operacao
+Alexsander Campos Silva,00:00:10,00:00:10.6,2026-09-02
+João Victor Silva Leal,00:00:16,00:00:16.666667,2026-09-02
+José Conferente,00:00:06,00:00:06,2026-09-02
+Alexsander Campos Silva,00:00:42,00:00:42.027778,2026-09-03
+Wallace Christian Gomes Esteves   ,00:00:06,00:00:06.021739,2026-09-04
+Wallace Christian Gomes Esteves   ,00:00:11,00:00:11.875,2026-09-07
+Alexsander Campos Silva,00:00:03,00:00:03.5,2026-09-08
+Wallace Christian Gomes Esteves   ,00:00:10,00:00:10.518519,2026-09-08
+Alexsander Campos Silva,00:00:07,00:00:07,2026-09-09
+Wallace Christian Gomes Esteves   ,00:00:05,00:00:05.481481,2026-09-09
+Wallace Christian Gomes Esteves   ,00:00:05,00:00:05.097222,2026-09-10
+João Victor Silva Leal,00:00:37,00:00:37.586207,2026-09-11
+Leonardo Miguel,00:00:11,00:00:11.8,2026-09-11
+Wallace Christian Gomes Esteves   ,00:00:06,00:00:06.565217,2026-09-11
+Wallace Christian Gomes Esteves   ,00:00:04,00:00:04.52,2026-09-14
+Wallace Christian Gomes Esteves   ,00:00:04,00:00:04.288462,2026-09-15
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.440476,2026-09-16
+Leonardo Miguel,00:00:11,00:00:11.542857,2026-09-17
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.276596,2026-09-17
+Wallace Christian Gomes Esteves   ,00:00:08,00:00:08.670732,2026-09-18
+Wallace Christian Gomes Esteves   ,00:00:05,00:00:05.19469,2026-09-21
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.757576,2026-09-22
+Alexsander Campos Silva,00:00:05,00:00:05.538462,2026-09-23
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.234043,2026-09-23
+Alexsander Campos Silva,00:01:04,00:01:04,2026-09-24
+Leonardo Miguel,00:00:08,00:00:08.085714,2026-09-24
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.636364,2026-09-24
+João Victor Silva Leal,00:00:42,00:00:42.761905,2026-09-25
+Leonardo Miguel,00:00:12,00:00:12,2026-09-25
+Wallace Christian Gomes Esteves   ,00:00:11,00:00:11.564103,2026-09-25
+Leonardo Miguel,00:00:12,00:00:12,2026-09-28
+Wallace Christian Gomes Esteves   ,00:00:02,00:00:02.718519,2026-09-28
+Leonardo Miguel,00:00:02,00:00:02.307692,2026-09-29
+Wallace Christian Gomes Esteves   ,00:00:03,00:00:03.744186,2026-09-29
+Alexsander Campos Silva,00:01:02,00:01:02.647059,2026-09-30
+João Victor Silva Leal,00:00:32,00:00:32.25,2026-09-30
+José Conferente,00:00:43,00:00:43.25,2026-09-30
+Wallace Christian Gomes Esteves   ,00:00:06,00:00:06.643979,2026-09-30

@@ -1,8 +1,4 @@
 data_operacao,montador,tempo_medio_montagem,tempo_med_format
-2026-09-02,Cleiton Aparecido Da Costa,48.35,00:48:21
-2026-09-02,Geraldo Teixeira Baia Junior,31.14,00:31:08.6
-2026-09-02,Leonardo Caetano Rodrigues,57.18,00:57:10.666667
-2026-09-02,Marcos Vinicio Alves Pessoa,76.82,01:16:49
 2026-09-03,Geraldo Teixeira Baia Junior,41.42,00:41:25.375
 2026-09-03,Marcos Vinicio Alves Pessoa,29.4,00:29:23.888889
 2026-09-03,Natan Silva Medeiros Júnior,18.62,00:18:37.181818
@@ -172,7 +168,6 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-30,Freelancer 04,27.64,00:27:38.2
 2026-09-30,Geraldo Teixeira Baia Junior,33.21,00:33:12.777778
 2026-09-30,Gianmiller Moraes,29.55,00:29:32.909091
-2026-09-30,José Montador,0.15,00:00:08.666667
 2026-09-30,Leonardo Caetano Rodrigues,19.2,00:19:11.65
 2026-09-30,Marcos Vinicio Alves Pessoa,31.24,00:31:14.142857
 2026-09-30,Natan Silva Medeiros Júnior,24.16,00:24:09.846154
@@ -189,3 +184,17 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-01,Marcos Vinicio Alves Pessoa,31.17,00:31:10.555556
 2026-10-01,Natan Silva Medeiros Júnior,37.34,00:37:20.428571
 2026-10-01,Pedro Lucas Procópio dos Santos,11.19,00:11:11.4
+2026-10-02,Adilson José Gonçalves,11.42,00:11:25.125
+2026-10-02,Denilton Batista Dos Santos,19.04,00:19:02
+2026-10-02,Felipe Rogerio Estevam Da Silva ,25.32,00:25:19.3
+2026-10-02,Freelancer 01,21.37,00:21:21.9
+2026-10-02,Freelancer 02,25.23,00:25:13.5
+2026-10-02,Freelancer 03,23.57,00:23:34.428571
+2026-10-02,Freelancer 04,15.79,00:15:47.461538
+2026-10-02,Geraldo Teixeira Baia Junior,22.66,00:22:39.833333
+2026-10-02,Gianmiller Moraes,55.33,00:55:20
+2026-10-02,Leonardo Caetano Rodrigues,22.54,00:22:32.1
+2026-10-02,Marcos Vinicio Alves Pessoa,28.65,00:28:39.125
+2026-10-02,Natan Silva Medeiros Júnior,31.56,00:31:33.428571
+2026-10-02,Paulo Rozani Lopes Da Silva,44.38,00:44:23
+2026-10-02,Pedro Lucas Procópio dos Santos,14.55,00:14:33

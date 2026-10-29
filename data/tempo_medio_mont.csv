@@ -1,34 +1,34 @@
 data_operacao,montador,tempo_medio_montagem,tempo_med_format
-2026-09-03,Gabriel ,30.95,00:30:57
+2026-09-03,Gabriel  Bala ,30.95,00:30:57
 2026-09-03,Geraldo Teixeira Baia Junior,41.42,00:41:25.375
 2026-09-03,Marcos Vinicio Alves Pessoa,29.4,00:29:23.888889
 2026-09-03,Natan Silva Medeiros Júnior,18.62,00:18:37.181818
-2026-09-04,Gabriel ,31.34,00:31:20.375
+2026-09-04,Gabriel  Bala ,31.34,00:31:20.375
 2026-09-04,Geraldo Teixeira Baia Junior,21.57,00:21:34
 2026-09-04,Gianmiller Moraes,19.9,00:19:54.1
 2026-09-04,Marcos Vinicio Alves Pessoa,19.73,00:19:43.7
 2026-09-04,Natan Silva Medeiros Júnior,22.74,00:22:44.444444
-2026-09-07,Gabriel ,25.01,00:25:00.5
+2026-09-07,Gabriel  Bala ,25.01,00:25:00.5
 2026-09-07,Gianmiller Moraes,34.08,00:34:04.5
 2026-09-07,Marcos Vinicio Alves Pessoa,35.3,00:35:18
 2026-09-07,Natan Silva Medeiros Júnior,17.43,00:17:25.75
 2026-09-08,Denilton Batista Dos Santos,40.95,00:40:56.666667
 2026-09-08,Felipe Rogerio Estevam Da Silva ,38.1,00:38:06.142857
-2026-09-08,Gabriel ,20.44,00:20:26.444444
+2026-09-08,Gabriel  Bala ,20.44,00:20:26.444444
 2026-09-08,Gianmiller Moraes,49.47,00:49:28
 2026-09-08,Leonardo Caetano Rodrigues,32.83,00:32:50
 2026-09-08,Marcos Vinicio Alves Pessoa,29.56,00:29:33.75
 2026-09-08,Natan Silva Medeiros Júnior,48.35,00:48:21.2
 2026-09-09,Denilton Batista Dos Santos,34.62,00:34:37.333333
 2026-09-09,Felipe Rogerio Estevam Da Silva ,15.65,00:15:39.0625
-2026-09-09,Gabriel ,16.72,00:16:43.266667
+2026-09-09,Gabriel  Bala ,16.72,00:16:43.266667
 2026-09-09,Gianmiller Moraes,59.03,00:59:01.833333
 2026-09-09,Leonardo Caetano Rodrigues,19.31,00:19:18.75
 2026-09-09,Marcos Vinicio Alves Pessoa,27.18,00:27:11.090909
 2026-09-09,Natan Silva Medeiros Júnior,34.87,00:34:52.142857
 2026-09-10,Denilton Batista Dos Santos,37.12,00:37:07.5
 2026-09-10,Felipe Rogerio Estevam Da Silva ,23.3,00:23:17.818182
-2026-09-10,Gabriel ,20.29,00:20:17.5
+2026-09-10,Gabriel  Bala ,20.29,00:20:17.5
 2026-09-10,Geraldo Teixeira Baia Junior,37.21,00:37:12.5
 2026-09-10,Gianmiller Moraes,37.57,00:37:33.857143
 2026-09-10,Leonardo Caetano Rodrigues,17.9,00:17:54.181818
@@ -37,7 +37,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-10,Wallace Christian Gomes Esteves   ,33.17,00:33:10
 2026-09-11,Denilton Batista Dos Santos,45.09,00:45:05.5
 2026-09-11,Felipe Rogerio Estevam Da Silva ,22.03,00:22:02
-2026-09-11,Gabriel ,20.93,00:20:55.916667
+2026-09-11,Gabriel  Bala ,20.93,00:20:55.916667
 2026-09-11,Gianmiller Moraes,34.94,00:34:56.625
 2026-09-11,Leonardo Caetano Rodrigues,15.11,00:15:06.866667
 2026-09-11,Marcos Vinicio Alves Pessoa,23.83,00:23:49.727273
@@ -47,7 +47,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-14,Adilson José Gonçalves,25.54,00:25:32.428571
 2026-09-14,Denilton Batista Dos Santos,58.6,00:58:36.166667
 2026-09-14,Felipe Rogerio Estevam Da Silva ,19.44,00:19:26.166667
-2026-09-14,Gabriel ,25.34,00:25:20.545455
+2026-09-14,Gabriel  Bala ,25.34,00:25:20.545455
 2026-09-14,Geraldo Teixeira Baia Junior,30.13,00:30:07.571429
 2026-09-14,Gianmiller Moraes,81.55,01:21:33
 2026-09-14,Leonardo Caetano Rodrigues,21.26,00:21:15.5
@@ -56,7 +56,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-14,Natan Silva Medeiros Júnior,26.84,00:26:50.090909
 2026-09-14,Wallace Christian Gomes Esteves   ,12.6,00:12:36
 2026-09-15,Felipe Rogerio Estevam Da Silva ,18.09,00:18:05.6
-2026-09-15,Gabriel ,32.06,00:32:03.428571
+2026-09-15,Gabriel  Bala ,32.06,00:32:03.428571
 2026-09-15,Geraldo Teixeira Baia Junior,15.68,00:15:41
 2026-09-15,Gianmiller Moraes,33.86,00:33:51.857143
 2026-09-15,Leonardo Caetano Rodrigues,16.28,00:16:17.2
@@ -65,7 +65,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-16,Adilson José Gonçalves,17.31,00:17:18.5
 2026-09-16,Denilton Batista Dos Santos,52.63,00:52:37.5
 2026-09-16,Felipe Rogerio Estevam Da Silva ,22.53,00:22:31.583333
-2026-09-16,Gabriel ,18.55,00:18:33
+2026-09-16,Gabriel  Bala ,18.55,00:18:33
 2026-09-16,Gianmiller Moraes,34.16,00:34:09.6
 2026-09-16,Leonardo Caetano Rodrigues,14.81,00:14:48.846154
 2026-09-16,Marcos Vinicio Alves Pessoa,25.15,00:25:08.636364
@@ -73,7 +73,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-17,Adilson José Gonçalves,19.19,00:19:11.25
 2026-09-17,Denilton Batista Dos Santos,38.71,00:38:42.571429
 2026-09-17,Felipe Rogerio Estevam Da Silva ,21.93,00:21:55.8
-2026-09-17,Gabriel ,11.03,00:11:01.833333
+2026-09-17,Gabriel  Bala ,11.03,00:11:01.833333
 2026-09-17,Geraldo Teixeira Baia Junior,34.43,00:34:26
 2026-09-17,Gianmiller Moraes,24.09,00:24:05.625
 2026-09-17,Leonardo Caetano Rodrigues,17.39,00:17:23.153846
@@ -81,7 +81,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-17,Natan Silva Medeiros Júnior,19.69,00:19:41.222222
 2026-09-18,Adilson José Gonçalves,21.04,00:21:02.333333
 2026-09-18,Denilton Batista Dos Santos,27.39,00:27:23.333333
-2026-09-18,Gabriel ,11.94,00:11:56.571429
+2026-09-18,Gabriel  Bala ,11.94,00:11:56.571429
 2026-09-18,Gianmiller Moraes,24.77,00:24:45.888889
 2026-09-18,Leonardo Caetano Rodrigues,14.57,00:14:34.111111
 2026-09-18,Leonardo Miguel,8.24,00:08:14.363636
@@ -90,7 +90,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-21,Adilson José Gonçalves,25.14,00:25:08.230769
 2026-09-21,Denilton Batista Dos Santos,64.55,01:04:32.833333
 2026-09-21,Felipe Rogerio Estevam Da Silva ,21.08,00:21:04.823529
-2026-09-21,Gabriel ,18.03,00:18:01.777778
+2026-09-21,Gabriel  Bala ,18.03,00:18:01.777778
 2026-09-21,Geraldo Teixeira Baia Junior,31.4,00:31:24
 2026-09-21,Gianmiller Moraes,46.04,00:46:02.571429
 2026-09-21,Leonardo Caetano Rodrigues,16.89,00:16:53.368421
@@ -101,7 +101,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-22,Felipe Rogerio Estevam Da Silva ,15.98,00:15:58.666667
 2026-09-22,Freelancer 01,19.86,00:19:51.444444
 2026-09-22,Freelancer 02,20.73,00:20:43.75
-2026-09-22,Gabriel ,8.26,00:08:15.6
+2026-09-22,Gabriel  Bala ,8.26,00:08:15.6
 2026-09-22,Gianmiller Moraes,27.54,00:27:32.333333
 2026-09-22,Leonardo Caetano Rodrigues,15.88,00:15:52.636364
 2026-09-22,Marcos Vinicio Alves Pessoa,24.42,00:24:25.142857
@@ -112,7 +112,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-23,Freelancer 01,18.18,00:18:10.692308
 2026-09-23,Freelancer 02,18.9,00:18:54.166667
 2026-09-23,Freelancer 03,29.4,00:29:24
-2026-09-23,Gabriel ,14.07,00:14:04
+2026-09-23,Gabriel  Bala ,14.07,00:14:04
 2026-09-23,Gianmiller Moraes,36.02,00:36:01.285714
 2026-09-23,Leonardo Caetano Rodrigues,16.3,00:16:17.823529
 2026-09-23,Marcos Vinicio Alves Pessoa,39.68,00:39:40.777778
@@ -122,7 +122,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-24,Denilton Batista Dos Santos,52.0,00:52:00.285714
 2026-09-24,Felipe Rogerio Estevam Da Silva ,18.95,00:18:56.6875
 2026-09-24,Freelancer 02,26.35,00:26:20.714286
-2026-09-24,Gabriel ,33.33,00:33:19.666667
+2026-09-24,Gabriel  Bala ,33.33,00:33:19.666667
 2026-09-24,Geraldo Teixeira Baia Junior,21.26,00:21:15.538462
 2026-09-24,Gianmiller Moraes,22.64,00:22:38.416667
 2026-09-24,Leonardo Caetano Rodrigues,20.11,00:20:06.4375
@@ -146,7 +146,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-28,Freelancer 01,16.99,00:16:59.529412
 2026-09-28,Freelancer 03,25.93,00:25:55.666667
 2026-09-28,Freelancer 04,42.88,00:42:52.5
-2026-09-28,Gabriel ,37.76,00:37:45.333333
+2026-09-28,Gabriel  Bala ,37.76,00:37:45.333333
 2026-09-28,Geraldo Teixeira Baia Junior,30.19,00:30:11.4
 2026-09-28,Gianmiller Moraes,56.77,00:56:46.428571
 2026-09-28,Leonardo Caetano Rodrigues,24.2,00:24:12.230769
@@ -156,7 +156,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-29,Adilson José Gonçalves,21.48,00:21:28.7
 2026-09-29,Felipe Rogerio Estevam Da Silva ,17.81,00:17:48.615385
 2026-09-29,Freelancer 02,21.73,00:21:43.888889
-2026-09-29,Gabriel ,18.43,00:18:25.75
+2026-09-29,Gabriel  Bala ,18.43,00:18:25.75
 2026-09-29,Geraldo Teixeira Baia Junior,18.8,00:18:47.777778
 2026-09-29,Gianmiller Moraes,26.71,00:26:42.714286
 2026-09-29,Leonardo Caetano Rodrigues,16.33,00:16:19.846154
@@ -166,7 +166,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-09-30,Freelancer 01,14.44,00:14:26.6
 2026-09-30,Freelancer 02,20.94,00:20:56.133333
 2026-09-30,Freelancer 04,27.64,00:27:38.2
-2026-09-30,Gabriel ,14.2,00:14:12.166667
+2026-09-30,Gabriel  Bala ,14.2,00:14:12.166667
 2026-09-30,Geraldo Teixeira Baia Junior,33.21,00:33:12.777778
 2026-09-30,Gianmiller Moraes,29.55,00:29:32.909091
 2026-09-30,Leonardo Caetano Rodrigues,19.2,00:19:11.65
@@ -178,7 +178,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-01,Freelancer 01,15.13,00:15:07.882353
 2026-10-01,Freelancer 02,24.78,00:24:46.625
 2026-10-01,Freelancer 04,20.44,00:20:26.375
-2026-10-01,Gabriel ,11.19,00:11:11.4
+2026-10-01,Gabriel  Bala ,11.19,00:11:11.4
 2026-10-01,Geraldo Teixeira Baia Junior,25.67,00:25:40.166667
 2026-10-01,Gianmiller Moraes,31.69,00:31:41.142857
 2026-10-01,Leonardo Caetano Rodrigues,21.12,00:21:07.454545
@@ -191,7 +191,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-02,Freelancer 02,25.23,00:25:13.5
 2026-10-02,Freelancer 03,23.57,00:23:34.428571
 2026-10-02,Freelancer 04,15.79,00:15:47.461538
-2026-10-02,Gabriel ,14.55,00:14:33
+2026-10-02,Gabriel  Bala ,14.55,00:14:33
 2026-10-02,Geraldo Teixeira Baia Junior,22.66,00:22:39.833333
 2026-10-02,Gianmiller Moraes,55.33,00:55:20
 2026-10-02,Leonardo Caetano Rodrigues,22.54,00:22:32.1
@@ -202,7 +202,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-05,Denilton Batista Dos Santos,38.98,00:38:58.875
 2026-10-05,Felipe Rogerio Estevam Da Silva ,18.45,00:18:27.058824
 2026-10-05,Freelancer 02,37.61,00:37:36.375
-2026-10-05,Gabriel ,21.53,00:21:32
+2026-10-05,Gabriel  Bala ,21.53,00:21:32
 2026-10-05,Gianmiller Moraes,34.28,00:34:16.875
 2026-10-05,Leonardo Caetano Rodrigues,17.26,00:17:15.764706
 2026-10-05,Marcos Vinicio Alves Pessoa,30.65,00:30:38.8
@@ -214,7 +214,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-06,Freelancer 01,18.82,00:18:49.272727
 2026-10-06,Freelancer 02,43.64,00:43:38.333333
 2026-10-06,Freelancer 04,41.3,00:41:18
-2026-10-06,Gabriel ,14.78,00:14:47
+2026-10-06,Gabriel  Bala ,14.78,00:14:47
 2026-10-06,Geraldo Teixeira Baia Junior,27.46,00:27:27.6
 2026-10-06,Gianmiller Moraes,55.58,00:55:35
 2026-10-06,Leonardo Caetano Rodrigues,34.68,00:34:40.5
@@ -237,7 +237,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-08,Felipe Rogerio Estevam Da Silva ,25.58,00:25:34.571429
 2026-10-08,Freelancer 01,24.13,00:24:07.9
 2026-10-08,Freelancer 02,21.97,00:21:58.333333
-2026-10-08,Gabriel ,20.24,00:20:14.333333
+2026-10-08,Gabriel  Bala ,20.24,00:20:14.333333
 2026-10-08,Gianmiller Moraes,24.91,00:24:54.727273
 2026-10-08,Leonardo Caetano Rodrigues,16.17,00:16:10.05
 2026-10-08,Leonardo Miguel,11.27,00:11:16
@@ -250,7 +250,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-09,Freelancer 01,20.55,00:20:33.272727
 2026-10-09,Freelancer 02,21.92,00:21:55.181818
 2026-10-09,Freelancer 04,19.88,00:19:52.857143
-2026-10-09,Gabriel ,57.22,00:57:13
+2026-10-09,Gabriel  Bala ,57.22,00:57:13
 2026-10-09,Geraldo Teixeira Baia Junior,21.82,00:21:49.2
 2026-10-09,Gianmiller Moraes,28.02,00:28:01.25
 2026-10-09,Leonardo Caetano Rodrigues,20.19,00:20:11.142857
@@ -287,7 +287,7 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-15,Freelancer 02,32.4,00:32:24
 2026-10-15,Freelancer 03,29.22,00:29:13.461538
 2026-10-15,Freelancer 04,24.53,00:24:31.8
-2026-10-15,Gabriel ,25.9,00:25:54
+2026-10-15,Gabriel  Bala ,25.9,00:25:54
 2026-10-15,Gianmiller Moraes,31.25,00:31:14.75
 2026-10-15,Leonardo Caetano Rodrigues,26.98,00:26:58.5
 2026-10-15,Leonardo Miguel,0.27,00:00:16
@@ -394,3 +394,13 @@ data_operacao,montador,tempo_medio_montagem,tempo_med_format
 2026-10-27,Marcos Vinicio Alves Pessoa,26.4,00:26:23.846154
 2026-10-27,Natan Silva Medeiros Júnior,77.48,01:17:28.666667
 2026-10-27,Paulo Rozani Lopes Da Silva,53.77,00:53:46.285714
+2026-10-28,Adilson José Gonçalves,14.82,00:14:49.4
+2026-10-28,Denilton Batista Dos Santos,30.6,00:30:36
+2026-10-28,Felipe Rogerio Estevam Da Silva ,19.5,00:19:30
+2026-10-28,Freelancer 02,25.16,00:25:09.5
+2026-10-28,Geraldo Teixeira Baia Junior,23.12,00:23:07.25
+2026-10-28,Gianmiller Moraes,26.1,00:26:05.9
+2026-10-28,Leonardo Caetano Rodrigues,21.2,00:21:12.090909
+2026-10-28,Marcos Vinicio Alves Pessoa,38.91,00:38:54.6
+2026-10-28,Natan Silva Medeiros Júnior,41.14,00:41:08.166667
+2026-10-28,Paulo Rozani Lopes Da Silva,32.29,00:32:17.375
